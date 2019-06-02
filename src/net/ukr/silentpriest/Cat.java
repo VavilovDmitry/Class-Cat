@@ -42,11 +42,6 @@ public class Cat {
 		return "Cat [name=" + name + ", breed=" + breed + ", age=" + age + "]";
 	}
 
-	/*public static String Meow(String meow) {
-	meow = "Meow Meow";
-	return meow;
-	
-	}*/
 	
 	void meow() {
 		System.out.println("Meow Meow");
